@@ -7,3 +7,11 @@
 //
 
 import Foundation
+
+class Text{
+
+    var text : String = ""
+    init (text : String){
+        self.text = text
+    }
+}
